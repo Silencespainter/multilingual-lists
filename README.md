@@ -1,69 +1,27 @@
-# multilingual-lists
-Multilingual lists of countries names, capitals, phone codes and more in (SELECT,UL and JSON) formats.
+# World Countries List
 
-<hr />
-<h2>What's the Multilingual Lists project ?</h2>
-<p>
-Is a project which providing you with the countries lists in your language. 
-It helps <b>Web Developers</b> to enhance their multilingual projects.
-</p>
+## Data type provided sort by countries
 
-<hr />
-<h2>Available Languages</h2>
-<ul>
-	<li>English - en</li>
-	<li>Arabic | العـربية - ar</li>
-	<li>French | le français - fr</li>
-	<li>German | Deutsch - de</li>
-	<li>Spanish | Español - es</li>
-	<li>Persian | فارسی - fa</li>
-	<li>Italian | Italiano - it</li>
-	<li>Japanese | 日本語 (にほんご) - ja</li>
-	<li>Portuguese | Português - pt</li>
-	<li>Russian | Русский - ru</li>
-	<li>Turkish | Türkçe - tr</li>
-	<li>Chinese | 中文 - zh</li>
-</ul>
+    * Countries Names
+    * Countries Native Names
+    * Capital Names
+    * Countries ISO_2 Codes
+    * Countries ISO_3 Codes
+    * Countries Phone Codes
 
-<hr />
-<h2>Which types of countries lists will you have ?</h2>
-<ul>
-	<li>Select Menus</li>
-	<li>UL Menus</li>
-	<li>JSON</li>
-</ul>
+## Available Countries-Languages
 
-<hr />
-<h2>Which types of data lists will you have ?</h2>
-<ul>
-	<li>Countries Names</li>
-	<li>Countries Native Names</li>
-	<li>Capital Names</li>
-	<li>Countries ISO_2 Codes</li>
-	<li>Countries ISO_3 Codes</li>
-	<li>Countries Phone Codes</li>
-</ul>
+    * EN - English
+    * AR - Arabic | العـربية
+    * FR - French | le français
+    * DE - German | Deutsch
+    * ES - Spanish | Español
+    * IT - Italian | Italiano
+    * JP - Japanese | 日本語 (にほんご)
+    * PT - Portuguese | Português
+    * RU - Russian | Русский
+    * TR - Turkish | Türkçe
+    * CN - Chinese | 中文
 
-<hr />
-
-<h2>Features</h2>
-<ul>
-	<li>Countries names are order alphabetically</li>
-	<li>Capital names are order alphabetically</li>
-	<li>JSON ready format for database insertion</li>
-	<li>UL lists provided with extra information using [data-] property</li>
-	<li>Two types of UL lists
-		<ul>
-			<li>With Country name prefix</li>
-			<li>Without Country name prefix</li>
-		</ul>
-	</li>
-</ul>
-
-<hr />
-<h2>Contact Me</h2>
-<p>
-<a href='mailto:bakrianoo@gmail.com'>bakrianoo@gmail.com</a>
- | Abu Bakr Soliman</p>
-
-
+## Credits 
+* Fork from https://github.com/bakrianoo/multilingual-lists
